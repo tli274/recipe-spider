@@ -1,0 +1,7 @@
+.scrapy
+recipe_scraper/__pycache__
+recipe_scraper/spiders/__pycache__
+recipes.json
+fixed_recipes.json
+new_recipes.json
+.venv
